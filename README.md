@@ -10,16 +10,16 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 Work experience
 ---------------
-## 2011- *present*
+## 2011-- *present*
 Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
 
-## 2010- *present*
+## 2010-- *present*
 Owner, [vardevs](http://vardevs.se), Sweden
 
-## 2008-2010
+## 2008--2010
 Consultant, [Cybercom Group](http://cybercom.se), Karlskrona (Sweden)
 
-## 2005-2008
+## 2005--2008
 Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
