@@ -24,6 +24,8 @@ Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
 ------------------
+Clients: Ericsson, HMode, JC Älmhult, NAV, Perigee, Sony Ericsson, SPK, Svenska Handelsbanken, vardevs, Verona Motor
+
 # [Ericsson](http://ericsson.se)
 ## FIFA World Cup: Platform Expert
 ### 2010-06--2010-07
@@ -48,7 +50,32 @@ Description:
 ### 2011-01--2011-05
 Role: Developer
 
-Keywords: django, python, js, jquery, postgresql, nginx
+Keywords: django, python, js, jquery, postgresql, nginx, html
+
+Description:
+
+## Graphical print material
+### 2010-- *present*
+Role: Designer
+
+Keywords: photoshop
+
+Description:
+
+# [JC Älmhult](http://jcalmhult.se)
+## Website
+### 2011-01--2011-02
+Role: Developer
+
+Keywords: django, python, html
+
+Description:
+
+## Graphical print material
+### 2010-- *present*
+Role: Designer
+
+Keywords: photoshop
 
 Description:
 
@@ -71,6 +98,23 @@ Keywords: python, flask, json, rest, webservice, api
 
 Description:
 
+# [Sony Ericsson](http://sonyericsson.com)
+## PlayNow Arena
+### 2008-09--2010-01:
+Role: *Front-end developer (mobile & web)*
+
+Keywords: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows, linux, html
+
+Description: 
+
+## PlayNow Arena
+### 2008-06--2008-09:
+Role: *Usability tester (web)*
+
+Keywords: ux, web, windows, testscripts
+
+Description: 
+
 # [SPK](http://spk.no)
 ## Agresso 2014
 ### 2013-03-- *present*
@@ -84,7 +128,7 @@ Description:
 ### 2013-01-- *present*
 Role: System manager and developer for off-the-shelf software
 
-Keywords: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js
+Keywords: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
 
 Description:
 - Refactored the ITSOS-plugin for JIRA
@@ -124,30 +168,13 @@ Keywords: java, flex, jboss, hibernate, spring, linux, windows, sql
 
 Description: 
 
-# [Sony Ericsson](http://sonyericsson.com)
-## PlayNow Arena
-### 2008-09--2010-01:
-Role: *Front-end developer (mobile & web)*
-
-Keywords: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows linux
-
-Description: 
-
-## PlayNow Arena
-### 2008-06--2008-09:
-Role: *Usability tester (web)*
-
-Keywords: ux, web, windows, testscripts
-
-Description: 
-
 # [Svenska Handelsbanken](http://handelsbanken.se)
 ## Support/Maintenance
 ### 2010-10--2010-12
 Role: Developer/Support Operator
 
 Keywords: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
-wsdl, support, windows, linux, activemq
+wsdl, support, windows, linux, activemq, html
 
 Description:
 
@@ -155,7 +182,7 @@ Description:
 ### 2010-08--2010-10
 Role: *Lead developer (vertical stack)*
 
-Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl, windows, linux, activemq
+Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl, windows, linux, activemq, html
 
 Description: 
 
@@ -163,7 +190,7 @@ Description:
 ### 2010-01--2010-06
 Role: *Front-end team lead*
 
-Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux
+Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux, html
 
 Description:
 
@@ -172,7 +199,7 @@ Description:
 ### 2013-02-- *present*
 Role: Developer
 
-Keywords: js, nodejs, nosql, mongodb
+Keywords: js, nodejs, nosql, mongodb, html
 
 Description:
 
@@ -180,7 +207,7 @@ Description:
 ### 2012-10--2012-11
 Role: Developer
 
-Keywords: python, kindle, ebook, rss
+Keywords: python, kindle, ebook, rss, html
 
 Description: 
 
@@ -188,7 +215,7 @@ Description:
 ### 2012-01-- *present*
 Role: Developer
 
-Keywords: python, markdown, flask
+Keywords: python, markdown, flask, html
 
 Description: flat-file blog project
 
@@ -197,7 +224,7 @@ Description: flat-file blog project
 ### 2011-10--2012--03
 Role: Developer
 
-Keywords: django, python, js, jquery, postgresql, nginx
+Keywords: django, python, js, jquery, postgresql, nginx, html
 
 Description:
 
