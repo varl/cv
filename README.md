@@ -221,7 +221,7 @@ Description: flat-file blog project
 
 # [Verona Motor](http://veronamotor.se)
 ## Redux web
-### 2011-10--2012--03
+### 2011-10--2012-03
 Role: Developer
 
 Keywords: django, python, js, jquery, postgresql, nginx, html
