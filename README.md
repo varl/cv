@@ -167,7 +167,7 @@ Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, 
 
 Description:
 
-# [vardevs](http://vardevs.se)
+# [vardevs](http://vardevs.se) (a.k.a pet projects)
 ## WebChess
 ### 2013-02--present
 Role: Developer
