@@ -238,12 +238,12 @@ Minor (1): Software Engineering
 Minor (2): English
 
 # [Haganässkolan](http://haganasskolan.se/)
-## "Gymnasie" (equivalent to: high school)
+## "Gymnasie" (English equivalent: High School)
 ### 2001-2004
 "Elprogrammet m. inriktning Elektronik/Data" (Electrician programme with focus on electronics and computer science)
 
 # [Klöxhultsskolan](http://www.almhult.se/toppmeny/barnutbildning/grundskola/kloxhultsskolan.4.40681f1210df538087680004422.html)
-## "Grundskolan" (equivalent to: middle school)
+## "Grundskolan" (English equivalent: Middle School)
 ### 1996-2001
 
 # [International School of Singapore](http://www.iss.edu.sg/)
