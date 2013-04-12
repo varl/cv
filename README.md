@@ -10,10 +10,10 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 Work experience
 ---------------
-## 2011-*present*
+## 2011- *present*
 Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
 
-## 2010-*present*
+## 2010- *present*
 Owner, [vardevs](http://vardevs.se), Sweden
 
 ## 2008-2010
@@ -64,7 +64,7 @@ and maintained the servers running WebSphere (WAS/WPS).
 
 # [Perigee](http://perigee.se)
 ## Pocket Cycle Backend
-### 2012-11--*present*
+### 2012-11-- *present*
 Role: Backend developer
 
 Keywords: python, flask, json, rest, webservice, api
@@ -73,7 +73,7 @@ Description:
 
 # [SPK](http://spk.no)
 ## Agresso 2014
-### 2013-03--present
+### 2013-03-- *present*
 Role: Developer
 
 Keywords: ad, ldap, java, webservice, spring
@@ -81,7 +81,7 @@ Keywords: ad, ldap, java, webservice, spring
 Description: 
 
 ## Business processes
-### 2013-01--*present*
+### 2013-01-- *present*
 Role: System manager and developer for off-the-shelf software
 
 Keywords: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js
@@ -169,7 +169,7 @@ Description:
 
 # [vardevs](http://vardevs.se) (a.k.a pet projects)
 ## WebChess
-### 2013-02--present
+### 2013-02-- *present*
 Role: Developer
 
 Keywords: js, nodejs, nosql, mongodb
@@ -185,7 +185,7 @@ Keywords: python, kindle, ebook, rss
 Description: 
 
 ## vlv.io
-### 2012-01--present
+### 2012-01-- *present*
 Role: Developer
 
 Keywords: python, markdown, flask
