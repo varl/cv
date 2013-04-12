@@ -24,14 +24,24 @@ Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
 ------------------
-# [vardevs](http://vardevs.se)
-## WebChess
-### 2013-02--present
+# [Ericsson](http://ericsson.se)
+## FIFA World Cup: Platform Expert
+### 2010-06--2010-07
+Role: MSDP Platform Expert
+
+Keywords: msdp, linux, oracle, db, java, sql
+
+Description: On site in Romania (Bucharest) to solve platform dependent problems
+with MSDP used to serve the mobile portals for FIFA, both the premium portals
+that ISPs world-wide purchased (SaaS) and FIFA's official portal.
+
+## FIFA World Cup: Premium Portals
+### 2010-02--2010-05
 Role: Developer
 
-Keywords: js, nodejs, nosql, mongodb
+Keywords: xml, xlst, rest, xsd, msdp, jsp, windows, linux
 
-Description
+Description:
 
 # [HMode](http://hmode.se)
 ## Website
@@ -40,14 +50,17 @@ Role: Developer
 
 Keywords: django, python, js, jquery, postgresql, nginx
 
-# [Verona Motor](http://veronamotor.se)
-## Redux web
-### 2011-10--2012--03
-Role: Developer
+Description:
 
-Keywords: django, python, js, jquery, postgresql, nginx
+# [NAV](http://nav.no)
+## Pensjonsprogrammet
+### 2011-01--2011-05
+Role: Environment maintenance/support/developer
 
-Description: 
+Keywords: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
+
+Description: Developed a CMDB system in Python, integration against Confluence
+and maintained the servers running WebSphere (WAS/WPS).
 
 # [Perigee](http://perigee.se)
 ## Pocket Cycle Backend
@@ -111,43 +124,34 @@ Keywords: java, flex, jboss, hibernate, spring, linux, windows, sql
 
 Description: 
 
-# [NAV](http://nav.no)
-## Pensjonsprogrammet
-### 2011-01--2011-05
-Role: Environment maintenance/support/developer
+# [Sony Ericsson](http://sonyericsson.com)
+## PlayNow Arena
+### 2008-09--2010-01:
+Role: *Front-end developer (mobile & web)*
 
-Keywords: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
+Keywords: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows linux
 
-Description: Developed a CMDB system in Python, integration against Confluence
-and maintained the servers running WebSphere (WAS/WPS).
+Description: 
 
-# [Ericsson](http://ericsson.se)
-## FIFA World Cup: Platform Expert
-### 2010-06--2010-07
-Role: MSDP Platform Expert
+## PlayNow Arena
+### 2008-06--2008-09:
+Role: *Usability tester (web)*
 
-Keywords: msdp, linux, oracle, db, java, sql
+Keywords: ux, web, windows, testscripts
 
-Description: On site in Romania (Bucharest) to solve platform dependent problems
-with MSDP used to serve the mobile portals for FIFA, both the premium portals
-that ISPs world-wide purchased (SaaS) and FIFA's official portal.
-
-## FIFA World Cup: Premium Portals
-### 2010-02--2010-05
-Role: Developer
-
-Keywords: xml, xlst, rest, xsd, msdp, jsp, windows, linux
-
-Description:
+Description: 
 
 # [Svenska Handelsbanken](http://handelsbanken.se)
-## Mobile bank (phase 2)
+## Support/Maintenance
 ### 2010-10--2010-12
 Role: Developer/Support Operator
 
 Keywords: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
 wsdl, support, windows, linux, activemq
 
+Description:
+
+## Mobile bank (phase 2)
 ### 2010-08--2010-10
 Role: *Lead developer (vertical stack)*
 
@@ -161,20 +165,38 @@ Role: *Front-end team lead*
 
 Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux
 
+Description:
+
+# [vardevs](http://vardevs.se)
+## WebChess
+### 2013-02--present
+Role: Developer
+
+Keywords: js, nodejs, nosql, mongodb
+
+Description:
+
+## Kindress
+### 2012-10--2012-11
+Role: Developer
+
+Keywords: python, kindle, ebook, rss
+
 Description: 
 
-# [Sony Ericsson](http://sonyericsson.com)
-## PlayNow Arena
-### 2008-09--2010-01:
-Role: *Front-end developer (mobile & web)*
+## vlv.io
+### 2012-01--present
+Role: Developer
 
-Keywords: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows linux
+Keywords: python, markdown, flask
 
-Description: 
+Description: flat-file blog project
 
-### 2008-06--2008-09:
-Role: *Usability tester (web)*
+# [Verona Motor](http://veronamotor.se)
+## Redux web
+### 2011-10--2012--03
+Role: Developer
 
-Keywords: ux, web, windows, testscripts
+Keywords: django, python, js, jquery, postgresql, nginx
 
 Description: 
