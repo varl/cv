@@ -276,9 +276,11 @@ Education
 # [Blekinge Institute of Technology](http://bth.se)
 ## Bachelor of Science in Computer Science
 ### 2005-2009
-Major: Computer Science
-Minor (1): Software Engineering
-Minor (2): English
+*Major*: Computer Science
+
+*Minor (1)*: Software Engineering
+
+*Minor (2)*: English
 
 # [Haganässkolan](http://haganasskolan.se/)
 ## "Gymnasie" (High School)
