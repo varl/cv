@@ -110,7 +110,7 @@ and writing reports on how to fix it.
 
 # [SPK](http://spk.no)
 ## Agresso 2014
-### 2013-03&ndash;*present*
+### 2013-03&ndash *present*
 *Role*: Developer
 
 *Keywords*: ad, ldap, java, webservice, spring, tdd
@@ -118,7 +118,7 @@ and writing reports on how to fix it.
 *Description*: 
 
 ## Business processes
-### 2013-01&ndash;*present*
+### 2013-01&ndash *present*
 *Role*: System manager and developer for off-the-shelf software
 
 *Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
@@ -208,7 +208,7 @@ testing and security analysis of the application.
 
 # Svärdells AB
 ## Graphical print material
-### 2010&ndash;*present*
+### 2010&ndash *present*
 *Role*: Designer
 
 *Keywords*: photoshop
@@ -218,7 +218,7 @@ basis.
 
 # [vardevs](http://vardevs.se) (a.k.a pet projects)
 ## WebChess
-### 2013-02&ndash;*present*
+### 2013-02&ndash *present*
 *Role*: Developer
 
 *Keywords*: js, nodejs, nosql, mongodb, html, tdd
@@ -241,7 +241,7 @@ today's items into a neatly packaged e-book that is e-mailed to your Kindle for
 easy consumption.
 
 ## vlv.io
-### 2012-01&ndash;*present*
+### 2012-01&ndash *present*
 *Role*: Developer
 
 *Keywords*: python, markdown, flask, html
