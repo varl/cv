@@ -90,16 +90,17 @@ notification integration.
 
 # [Sony Ericsson](http://sonyericsson.com)
 ## PlayNow Arena
-### 2008-09&ndash;2010-01:
+### 2008-09&ndash;2010-01
 *Role*: Front-end developer (mobile &amp; web)
 
-*Keywords*: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows, linux, html
+*Keywords*: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring,
+windows, linux, html, tdd
 
 *Description*: Part of the UX-team which was responsible for the web and mobile
 web clients and the user experience of the webshop.
 
 ## PlayNow Arena
-### 2008-06&ndash;2008-09:
+### 2008-06&ndash;2008-09
 *Role*: Usability tester (web)
 
 *Keywords*: ux, web, windows, testscripts
@@ -109,15 +110,15 @@ and writing reports on how to fix it.
 
 # [SPK](http://spk.no)
 ## Agresso 2014
-### 2013-03&ndash; *present*
+### 2013-03&ndash;*present*
 *Role*: Developer
 
-*Keywords*: ad, ldap, java, webservice, spring
+*Keywords*: ad, ldap, java, webservice, spring, tdd
 
 *Description*: 
 
 ## Business processes
-### 2013-01&ndash; *present*
+### 2013-01&ndash;*present*
 *Role*: System manager and developer for off-the-shelf software
 
 *Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
@@ -146,25 +147,29 @@ Some tidbits of work done at this role:
 ### 2012-04&ndash;2012-08
 *Role*: System/front-end developer
 
-*Keywords*: flex, java, batch, spring
+*Keywords*: flex, java, batch, spring, tdd, fitnesse, linux, windows, jboss
 
-*Description*:
+*Description*: Worked with business logic related to pension payments to
+retired people, logic related to claims/counter-claims against other pension
+funds in batch jobs based on Spring.
 
 ## PERFORM Consolidation
 ### 2012-01&ndash;2012-03
 *Role*: System/Front-end developer
 
-*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch
+*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch, tdd
 
-*Description*: Maintenance
+*Description*: Maintenance and consolidation of the pension process software suite.
 
 ## PERFORM
 ### 2011-06&ndash;2011-12
 *Role*: System/Front-end developer
 
-*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, sql
+*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, sql, tdd
 
-*Description*: 
+*Description*: Developer working with Java/Flex to develop a new software for
+managing government pensions. Work included Spring in many forms: MVC, batch,
+security, etc.
 
 # [Svenska Handelsbanken](http://handelsbanken.se)
 ## Support/Maintenance
@@ -172,15 +177,18 @@ Some tidbits of work done at this role:
 *Role*: Developer/Support Operator
 
 *Keywords*: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
-wsdl, support, windows, linux, activemq, html
+wsdl, support, windows, linux, activemq, html, tdd
 
-*Description*:
+*Description*: Service license agreement for the solution, including bug fixes,
+new releases, customer expectation management. Training new support operators
+and writing training documentation.
 
 ## Mobile bank (phase 2)
 ### 2010-08&ndash;2010-10
 *Role*: Lead developer (vertical stack)
 
-*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl, windows, linux, activemq, html
+*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl,
+windows, linux, activemq, html, tdd
 
 *Description*: A follow-up project to extend functionality and re-design the
 look and feel. Responsible for the complete stack and the API consumed by
@@ -190,7 +198,8 @@ Iphone/Android applications.
 ### 2010-01&ndash;2010-06
 *Role*: Front-end team lead
 
-*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux, html
+*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl,
+windows, linux, html, tdd
 
 *Description*: Involved in the whole process, from identifying the customer
 needs, designing the technical implementation, leading the front-end and API 
@@ -199,7 +208,7 @@ testing and security analysis of the application.
 
 # Svärdells AB
 ## Graphical print material
-### 2010&ndash; *present*
+### 2010&ndash;*present*
 *Role*: Designer
 
 *Keywords*: photoshop
@@ -209,10 +218,10 @@ basis.
 
 # [vardevs](http://vardevs.se) (a.k.a pet projects)
 ## WebChess
-### 2013-02&ndash; *present*
+### 2013-02&ndash;*present*
 *Role*: Developer
 
-*Keywords*: js, nodejs, nosql, mongodb, html
+*Keywords*: js, nodejs, nosql, mongodb, html, tdd
 
 *Description*: A turn-based multiplayer chess game built completely in
 javascript. Some features:
@@ -232,7 +241,7 @@ today's items into a neatly packaged e-book that is e-mailed to your Kindle for
 easy consumption.
 
 ## vlv.io
-### 2012-01&ndash; *present*
+### 2012-01&ndash;*present*
 *Role*: Developer
 
 *Keywords*: python, markdown, flask, html
@@ -248,6 +257,19 @@ easy consumption.
 
 *Description*: Larger website designed and developed complete with backoffice
 administration tools.
+
+# [Kaxig](http://kaxig.com)
+## Various PSD-to-HTML conversion jobs
+### 2005-08&ndash;2008-06
+*Role*: Web-developer
+
+*Keywords*: cms, html, cf, linux, sql, ssl, bash
+
+*Description*: Various projects done part-time parallel to university studies,
+mostly related to quickly creating production-ready websites from a
+Photoshop-file, but every now and then there were some linux-related tasks that
+needed to be done, e.g. database replication, new ssl certificates, fail-over
+trigger scripts, etc.
 
 Education
 ---------
