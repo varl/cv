@@ -10,16 +10,16 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 Work experience
 ---------------
-## 2011-- *present*
+## 2011&ndash; *present*
 Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
 
-## 2010-- *present*
+## 2010&ndash; *present*
 Owner, [vardevs](http://vardevs.se), Sweden
 
-## 2008--2010
+## 2008&ndash;2010
 Consultant, [Cybercom Group](http://cybercom.se), Karlskrona (Sweden)
 
-## 2005--2008
+## 2005&ndash;2008
 Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
@@ -28,205 +28,226 @@ Clients: Ericsson, HMode, JC Älmhult, NAV, Perigee, Sony Ericsson, SPK, Svenska
 
 # [Ericsson](http://ericsson.se)
 ## FIFA World Cup: Platform Expert
-### 2010-06--2010-07
-Role: MSDP Platform Expert
+### 2010-06&ndash;2010-07
+*Role*: MSDP Platform Expert
 
-Keywords: msdp, linux, oracle, db, java, sql
+*Keywords*: msdp, linux, oracle, db, java, sql
 
-Description: On site in Romania (Bucharest) to solve platform dependent problems
+*Description*: On site in Romania (Bucharest) to solve platform dependent problems
 with MSDP used to serve the mobile portals for FIFA, both the premium portals
 that ISPs world-wide purchased (SaaS) and FIFA's official portal.
 
 ## FIFA World Cup: Premium Portals
-### 2010-02--2010-05
-Role: Developer
+### 2010-02&ndash;2010-05
+*Role*: Developer
 
-Keywords: xml, xlst, rest, xsd, msdp, jsp, windows, linux
+*Keywords*: xml, xlst, rest, xsd, msdp, jsp, windows, linux
 
-Description:
+*Description*: Ericsson-run project for FIFA to develop so-called Premium
+Portals that they would in turn sell to ISP's as a package deal; a full mobile
+portal complete with FIFA-related content, video streams, match results, games,
+ringtones, etc. 
 
 # [HMode](http://hmode.se)
 ## Website
-### 2011-01--2011-05
-Role: Developer
+### 2011-01&ndash;2011-05
+*Role*: Developer
 
-Keywords: django, python, js, jquery, postgresql, nginx, html
+*Keywords*: django, python, js, jquery, postgresql, nginx, html
 
-Description:
-
-## Graphical print material
-### 2010-- *present*
-Role: Designer
-
-Keywords: photoshop
-
-Description:
+*Description*: Design and development of a simple campaign site with
+a simple backoffice administration GUI for HMode.
 
 # [JC Älmhult](http://jcalmhult.se)
 ## Website
-### 2011-01--2011-02
-Role: Developer
+### 2011-01&ndash;2011-02
+*Role*: Developer
 
-Keywords: django, python, html
+*Keywords*: django, python, html
 
-Description:
-
-## Graphical print material
-### 2010-- *present*
-Role: Designer
-
-Keywords: photoshop
-
-Description:
+*Description*: Design and development of a simple site with a small backoffice.
 
 # [NAV](http://nav.no)
 ## Pensjonsprogrammet
-### 2011-01--2011-05
-Role: Environment maintenance/support/developer
+### 2011-01&ndash;2011-05
+*Role*: Environment maintenance/support/developer
 
-Keywords: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
+*Keywords*: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
 
-Description: Developed a CMDB system in Python, integration against Confluence
+*Description*: Developed a CMDB system in Python, integration against Confluence
 and maintained the servers running WebSphere (WAS/WPS).
 
 # [Perigee](http://perigee.se)
 ## Pocket Cycle Backend
-### 2012-11-- *present*
-Role: Backend developer
+### 2012-11&ndash; *present*
+*Role*: Backend developer
 
-Keywords: python, flask, json, rest, webservice, api
+*Keywords*: python, flask, json, rest, webservice, api
 
-Description:
+*Description*: A REST-based backend that handles user registration, partner
+connections, persistence, etc. that talks JSON and also deals with IOS
+notification integration.
 
 # [Sony Ericsson](http://sonyericsson.com)
 ## PlayNow Arena
-### 2008-09--2010-01:
-Role: *Front-end developer (mobile & web)*
+### 2008-09&ndash;2010-01:
+*Role*: Front-end developer (mobile &amp; web)
 
-Keywords: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows, linux, html
+*Keywords*: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring, windows, linux, html
 
-Description: 
+*Description*: Part of the UX-team which was responsible for the web and mobile
+web clients and the user experience of the webshop.
 
 ## PlayNow Arena
-### 2008-06--2008-09:
-Role: *Usability tester (web)*
+### 2008-06&ndash;2008-09:
+*Role*: Usability tester (web)
 
-Keywords: ux, web, windows, testscripts
+*Keywords*: ux, web, windows, testscripts
 
-Description: 
+*Description*: Tasked with isolating problems related to the user experience
+and writing reports on how to fix it.
 
 # [SPK](http://spk.no)
 ## Agresso 2014
-### 2013-03-- *present*
-Role: Developer
+### 2013-03&ndash; *present*
+*Role*: Developer
 
-Keywords: ad, ldap, java, webservice, spring
+*Keywords*: ad, ldap, java, webservice, spring
 
-Description: 
+*Description*: 
 
 ## Business processes
-### 2013-01-- *present*
-Role: System manager and developer for off-the-shelf software
+### 2013-01&ndash; *present*
+*Role*: System manager and developer for off-the-shelf software
 
-Keywords: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
+*Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
 
-Description:
+*Description*: All-around go-to guy responsible for (but not exclusively) JIRA,
+Confluence &amp; Agresso.
+
+Some tidbits of work done at this role:
 - Refactored the ITSOS-plugin for JIRA
 - Developed a new custom JIRA plugin to sync changes on issues to a database
-- Developed various macros for Confluence to circumvent limitations in the software
+- Developed various macros for Confluence to circumvent limitations in the
+  software
 - Developed tools for the IT-helpdesk to automate common tasks
+- Developed scripts for workflow automation, for example, automatic retrieval
+  of files from the EHF-infrastructure
 
 ## IT Service & Support (ITSOS)
-### 2012-09--2012-12
-Role: Developer
+### 2012-09&ndash;2012-12
+*Role*: Developer
 
-Keywords: java, jira, sql
+*Keywords*: java, jira, sql
 
-Description: Custom JIRA plugin with features to replace HP QualityCenter with JIRA.
+*Description*: Custom JIRA plugin with features to replace HP QualityCenter with JIRA.
 
 ## System development & maintenance
-### 2012-04--2012-08
-Role: System/front-end developer
+### 2012-04&ndash;2012-08
+*Role*: System/front-end developer
 
-Keywords: flex, java, batch, spring
+*Keywords*: flex, java, batch, spring
 
-Description:
+*Description*:
 
 ## PERFORM Consolidation
-### 2012-01--2012-03
-Role: System/Front-end developer
+### 2012-01&ndash;2012-03
+*Role*: System/Front-end developer
 
-Keywords: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch
+*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch
 
-Description: Maintenance
+*Description*: Maintenance
 
 ## PERFORM
-### 2011-06--2011-12
-Role: System/Front-end developer
+### 2011-06&ndash;2011-12
+*Role*: System/Front-end developer
 
-Keywords: java, flex, jboss, hibernate, spring, linux, windows, sql
+*Keywords*: java, flex, jboss, hibernate, spring, linux, windows, sql
 
-Description: 
+*Description*: 
 
 # [Svenska Handelsbanken](http://handelsbanken.se)
 ## Support/Maintenance
-### 2010-10--2010-12
-Role: Developer/Support Operator
+### 2010-10&ndash;2010-12
+*Role*: Developer/Support Operator
 
-Keywords: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
+*Keywords*: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
 wsdl, support, windows, linux, activemq, html
 
-Description:
+*Description*:
 
 ## Mobile bank (phase 2)
-### 2010-08--2010-10
-Role: *Lead developer (vertical stack)*
+### 2010-08&ndash;2010-10
+*Role*: Lead developer (vertical stack)
 
-Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl, windows, linux, activemq, html
+*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl, windows, linux, activemq, html
 
-Description: 
+*Description*: A follow-up project to extend functionality and re-design the
+look and feel. Responsible for the complete stack and the API consumed by
+Iphone/Android applications.
 
 ## Mobile bank (phase 1)
-### 2010-01--2010-06
-Role: *Front-end team lead*
+### 2010-01&ndash;2010-06
+*Role*: Front-end team lead
 
-Keywords: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux, html
+*Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl, windows, linux, html
 
-Description:
+*Description*: Involved in the whole process, from identifying the customer
+needs, designing the technical implementation, leading the front-end and API 
+development effort and plugging security holes after a third party penetration
+testing and security analysis of the application.
+
+# Svärdells AB
+## Graphical print material
+### 2010&ndash; *present*
+*Role*: Designer
+
+*Keywords*: photoshop
+
+*Description*: Design and production of print-ready advertisements on a ad-hoc
+basis.
 
 # [vardevs](http://vardevs.se) (a.k.a pet projects)
 ## WebChess
-### 2013-02-- *present*
-Role: Developer
+### 2013-02&ndash; *present*
+*Role*: Developer
 
-Keywords: js, nodejs, nosql, mongodb, html
+*Keywords*: js, nodejs, nosql, mongodb, html
 
-Description:
+*Description*: A turn-based multiplayer chess game built completely in
+javascript. Some features:
+- Telnet compatible (because, why not?)
+- Play over e-mail (correspondence chess)
+- JavaScript client for Web
+- Local multiplayer (that can be resumed from separate devices) on e.g. tablets
 
 ## Kindress
-### 2012-10--2012-11
-Role: Developer
+### 2012-10&ndash;2012-11
+*Role*: Developer
 
-Keywords: python, kindle, ebook, rss, html
+*Keywords*: python, kindle, ebook, rss, html
 
-Description: 
+*Description*: An application that grabs all given RSS-feeds and formats all
+today's items into a neatly packaged e-book that is e-mailed to your Kindle for
+easy consumption.
 
 ## vlv.io
-### 2012-01-- *present*
-Role: Developer
+### 2012-01&ndash; *present*
+*Role*: Developer
 
-Keywords: python, markdown, flask, html
+*Keywords*: python, markdown, flask, html
 
-Description: flat-file blog project
+*Description*: Flat-file blog project
 
 # [Verona Motor](http://veronamotor.se)
 ## Redux web
-### 2011-10--2012-03
-Role: Developer
+### 2011-10&ndash;2012-03
+*Role*: Developer
 
-Keywords: django, python, js, jquery, postgresql, nginx, html
+*Keywords*: django, python, js, jquery, postgresql, nginx, html
 
-Description:
+*Description*: Larger website designed and developed complete with backoffice
+administration tools.
 
 Education
 ---------
@@ -238,12 +259,12 @@ Minor (1): Software Engineering
 Minor (2): English
 
 # [Haganässkolan](http://haganasskolan.se/)
-## "Gymnasie" (English equivalent: High School)
+## "Gymnasie" (High School)
 ### 2001-2004
 "Elprogrammet m. inriktning Elektronik/Data" (Electrician programme with focus on electronics and computer science)
 
 # [Klöxhultsskolan](http://www.almhult.se/toppmeny/barnutbildning/grundskola/kloxhultsskolan.4.40681f1210df538087680004422.html)
-## "Grundskolan" (English equivalent: Middle School)
+## "Grundskolan" (Middle School)
 ### 1996-2001
 
 # [International School of Singapore](http://www.iss.edu.sg/)
