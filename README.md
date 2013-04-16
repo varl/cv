@@ -67,6 +67,19 @@ a simple backoffice administration GUI for HMode.
 
 *Description*: Design and development of a simple site with a small backoffice.
 
+# [Kaxig](http://kaxig.com)
+## Various PSD-to-HTML conversion jobs
+### 2005-08&ndash;2008-06
+*Role*: Web-developer
+
+*Keywords*: cms, html, cf, linux, sql, ssl, bash
+
+*Description*: Various projects done part-time parallel to university studies,
+mostly related to quickly creating production-ready websites from a
+Photoshop-file, but every now and then there were some linux-related tasks that
+needed to be done, e.g. database replication, new ssl certificates, fail-over
+trigger scripts, etc.
+
 # [NAV](http://nav.no)
 ## Pensjonsprogrammet
 ### 2011-01&ndash;2011-05
@@ -258,18 +271,6 @@ easy consumption.
 *Description*: Larger website designed and developed complete with backoffice
 administration tools.
 
-# [Kaxig](http://kaxig.com)
-## Various PSD-to-HTML conversion jobs
-### 2005-08&ndash;2008-06
-*Role*: Web-developer
-
-*Keywords*: cms, html, cf, linux, sql, ssl, bash
-
-*Description*: Various projects done part-time parallel to university studies,
-mostly related to quickly creating production-ready websites from a
-Photoshop-file, but every now and then there were some linux-related tasks that
-needed to be done, e.g. database replication, new ssl certificates, fail-over
-trigger scripts, etc.
 
 Education
 ---------
