@@ -10,7 +10,10 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 Work experience
 ---------------
-## 2011&ndash; *present*
+## 2013&ndash; *present*
+Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
+
+## 2011&ndash;2013
 Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
 
 ## 2010&ndash; *present*
@@ -123,7 +126,7 @@ and writing reports on how to fix it.
 
 # [SPK](http://spk.no)
 ## Agresso 2014
-### 2013-03&ndash; *present*
+### 2013-03&ndash;2013-07
 *Role*: Developer
 
 *Keywords*: ad, ldap, java, webservice, spring, tdd
@@ -131,7 +134,7 @@ and writing reports on how to fix it.
 *Description*: 
 
 ## Business processes
-### 2013-01&ndash; *present*
+### 2013-01&ndash;2013-07
 *Role*: System manager and developer for off-the-shelf software
 
 *Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
@@ -244,7 +247,7 @@ javascript. Some features:
 - Local multiplayer (that can be resumed from separate devices) on e.g. tablets
 
 ## Kindress
-### 2012-10&ndash;2012-11
+### 2012-10&ndash; *present*
 *Role*: Developer
 
 *Keywords*: python, kindle, ebook, rss, html
