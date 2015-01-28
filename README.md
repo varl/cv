@@ -8,6 +8,27 @@ eager to work on projects small and large where the vision is greater than
 the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
+Skills
+------
+- Programming languages
+-- Java, Python, SQL, C, Javascript, PHP, Bash
+
+- Markup
+-- Markdown, WikiCode, HTML, CSS, XML/XSD/XSLT, JSON,
+
+- Databases
+-- PostgreSQL, MySQL, MSSQL
+
+- Frameworks
+-- Spring, Django, React.js, jQuery, Flask, Node.js, Hibernate, Flex, Jasmine,
+DWR, LESS, SASS, AngularJS, Velocity, Jersey, Jackson, Jira API, Enonic CMS API,
+jUnit, Bootstrap 3, Karma, Protractor
+
+- Tools
+-- Maven, Grunt, Phantom.js, Nginx, JBoss, Tomcat, WebSphere,
+ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
+Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
+
 Work experience
 ---------------
 ## 2013&ndash; *present*
