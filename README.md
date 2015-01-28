@@ -49,14 +49,53 @@ that ISPs world-wide purchased (SaaS) and FIFA's official portal.
 *Description*: Ericsson-run project for FIFA to develop so-called Premium
 Portals that they would in turn sell to ISP's as a package deal; a full mobile
 portal complete with FIFA-related content, video streams, match results, games,
-ringtones, etc. 
+ringtones, etc.
+
+# [Gjensidige](http://gjensidige.no)
+## Redesign of the customer portal
+### 2013-08&ndash;2014-06
+*Role*: Developer
+
+*Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
+
+*Description*: Upgrade the technology stack, including the CMS to the latest
+and greatest version. Implement a different look and feel for the customer
+portal.
+
+## Maintenance
+### 2014-06&ndash;2014-08
+*Role*: Developer
+
+*Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
+
+*Description*: Work with support tickets for all self-service portals that are
+in use.
+
+## Digital travel insurance card
+### 2014-08&ndash;2015-01
+*Role*: Developer
+
+*Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
+
+*Description*: Implement and design a solution for digital travel insurance
+cards that customers can administrate by themselves from the customer portal.
+
+## Redesign of the customer portal: Phase 2
+### 2015-01&ndash; present
+*Role*: Developer
+
+*Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
+
+*Description*: Phase 2 of the large redesign project which deals with problems
+that customers experience with the customer portal. Among them is the development
+of a new document archive client which has better usability and updated design.
 
 # [HMode](http://hmode.se)
 ## Website
 ### 2011-01&ndash;2011-05
 *Role*: Developer
 
-*Keywords*: django, python, js, jquery, postgresql, nginx, html
+*Keywords*: django, python, js, jquery, postgresql, nginx, html, css
 
 *Description*: Design and development of a simple campaign site with
 a simple backoffice administration GUI for HMode.
@@ -95,14 +134,14 @@ and maintained the servers running WebSphere (WAS/WPS).
 
 # [Perigee](http://perigee.se)
 ## Pocket Cycle Backend
-### 2012-11&ndash; *present*
+### 2012-11&ndash;2014-12
 *Role*: Backend developer
 
-*Keywords*: python, flask, json, rest, webservice, api
+*Keywords*: python, flask, json, rest, webservice, api, azure
 
 *Description*: A REST-based backend that handles user registration, partner
 connections, persistence, etc. that talks JSON and also deals with IOS
-notification integration.
+notification integration through Microsoft Azure.
 
 # [Sony Ericsson](http://sonyericsson.com)
 ## PlayNow Arena
