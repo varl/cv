@@ -48,7 +48,6 @@ Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
 ------------------
-Clients: Ericsson, HMode, JC Älmhult, NAV, Perigee, Sony Ericsson, SPK, Svenska Handelsbanken, vardevs, Verona Motor
 
 # [Ericsson](http://ericsson.se)
 ## FIFA World Cup: Platform Expert
