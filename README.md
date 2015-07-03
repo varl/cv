@@ -101,7 +101,7 @@ in use.
 cards that customers can administrate by themselves from the customer portal.
 
 ## Redesign of the customer portal: Phase 2
-### 2015-01&ndash; present
+### 2015-01&ndash;2015-04
 *Role*: Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
@@ -109,6 +109,28 @@ cards that customers can administrate by themselves from the customer portal.
 *Description*: Phase 2 of the large redesign project which deals with problems
 that customers experience with the customer portal. Among them is the development
 of a new document archive client which has better usability and updated design.
+
+## Ny Nettbutikk (New webshop)
+### 2015-04&ndash;2015-05
+
+*Role*: Developer, GJEFF expert, DevOps
+
+*Description*: Execute user tests, implement design elements into the Gjensidige
+Frontend Framework (GJEFF), act as subject matter expert regarding GJEFF and ease
+the transition into virtual development images for developers.
+
+## Gjensidige Frontend Framework Improvement
+### 2015-06&ndash;2015-08
+
+*Role*: Frontend Tech Lead, 
+
+*Description*: The intervention has two major goals:
+
+First, complete the prioritized tasks on the GJEFF JIRA board. 
+
+Second, raise the Quality of the documentation to a level where we be proud
+over the documentation and use it both internally and externally with select
+partners in Norway, Sweden, Denmark, Baltics and Poland.
 
 # [HMode](http://hmode.se)
 ## Website
