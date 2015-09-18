@@ -49,6 +49,16 @@ Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 Project experience
 ------------------
 
+# [Amedia](http://amedia.no)
+## Development and support for publishing tools for 70+ local newspapers in Norway
+### 2015-08&ndash;
+*Role*: Front-end and back-end developer
+
+*Keywords*: escenic, node.js, javascript, jquery, handlebars, linux,
+java, spring, micro services, varnish, docker
+
+*Description*: 
+
 # [Ericsson](http://ericsson.se)
 ## FIFA World Cup: Platform Expert
 ### 2010-06&ndash;2010-07
