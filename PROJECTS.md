@@ -1,9 +1,8 @@
-Project experience
-------------------
+#Project experience
 
-# [Amedia](http://amedia.no)
-## Development and support for publishing tools for 70+ local newspapers in Norway
-### 2015-08&ndash;2016-04
+## [Amedia](http://amedia.no)
+### Development and support for publishing tools for 70+ local newspapers in Norway
+#### 2015-08&ndash;2016-04
 *Role*: Team Lead &amp; Full-stack developer
 
 *Keywords*: escenic, node.js, javascript, jquery, handlebars, linux,
@@ -11,13 +10,13 @@ java, spring, micro services, varnish, docker
 
 *Description*: Team lead for the Front-end team. Responsible for the front-end stack which drives 8 million page views daily.
 
-# [Cisco Systems](http://cisco.com)
-## 
-### 2016-04&ndash;
+## [Cisco Systems](http://cisco.com)
+### 
+#### 2016-04&ndash;
 
-# [Ericsson](http://ericsson.se)
-## FIFA World Cup: Platform Expert
-### 2010-06&ndash;2010-07
+## [Ericsson](http://ericsson.se)
+### FIFA World Cup: Platform Expert
+#### 2010-06&ndash;2010-07
 *Role*: MSDP Platform Expert
 
 *Keywords*: msdp, linux, oracle, db, java, sql
@@ -26,8 +25,8 @@ java, spring, micro services, varnish, docker
 with MSDP used to serve the mobile portals for FIFA, both the premium portals
 that ISPs world-wide purchased (SaaS) and FIFA's official portal.
 
-## FIFA World Cup: Premium Portals
-### 2010-02&ndash;2010-05
+### FIFA World Cup: Premium Portals
+#### 2010-02&ndash;2010-05
 *Role*: Developer
 
 *Keywords*: xml, xlst, rest, xsd, msdp, jsp, windows, linux
@@ -37,9 +36,9 @@ Portals that they would in turn sell to ISP's as a package deal; a full mobile
 portal complete with FIFA-related content, video streams, match results, games,
 ringtones, etc.
 
-# [Gjensidige](http://gjensidige.no)
-## Redesign of the customer portal
-### 2013-08&ndash;2014-06
+## [Gjensidige](http://gjensidige.no)
+### Redesign of the customer portal
+#### 2013-08&ndash;2014-06
 *Role*: Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
@@ -48,8 +47,8 @@ ringtones, etc.
 and greatest version. Implement a different look and feel for the customer
 portal.
 
-## Maintenance
-### 2014-06&ndash;2014-08
+### Maintenance
+#### 2014-06&ndash;2014-08
 *Role*: Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
@@ -57,8 +56,8 @@ portal.
 *Description*: Work with support tickets for all self-service portals that are
 in use.
 
-## Digital travel insurance card
-### 2014-08&ndash;2015-01
+### Digital travel insurance card
+#### 2014-08&ndash;2015-01
 *Role*: Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
@@ -66,8 +65,8 @@ in use.
 *Description*: Implement and design a solution for digital travel insurance
 cards that customers can administrate by themselves from the customer portal.
 
-## Redesign of the customer portal: Phase 2
-### 2015-01&ndash;2015-04
+### Redesign of the customer portal: Phase 2
+#### 2015-01&ndash;2015-04
 *Role*: Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
@@ -76,8 +75,8 @@ cards that customers can administrate by themselves from the customer portal.
 that customers experience with the customer portal. Among them is the development
 of a new document archive client which has better usability and updated design.
 
-## Ny Nettbutikk (New webshop)
-### 2015-04&ndash;2015-05
+### Ny Nettbutikk (New webshop)
+#### 2015-04&ndash;2015-05
 
 *Role*: Developer, GJEFF expert, DevOps
 
@@ -85,8 +84,8 @@ of a new document archive client which has better usability and updated design.
 Frontend Framework (GJEFF), act as subject matter expert regarding GJEFF and ease
 the transition into virtual development images for developers.
 
-## Gjensidige Frontend Framework Improvement
-### 2015-06&ndash;2015-08
+### Gjensidige Frontend Framework Improvement
+#### 2015-06&ndash;2015-08
 
 *Role*: Frontend Tech Lead, 
 
@@ -98,9 +97,9 @@ Second, raise the Quality of the documentation to a level where we be proud
 over the documentation and use it both internally and externally with select
 partners in Norway, Sweden, Denmark, Baltics and Poland.
 
-# [HMode](http://hmode.se)
-## Website
-### 2011-01&ndash;2011-05
+## [HMode](http://hmode.se)
+### Website
+#### 2011-01&ndash;2011-05
 *Role*: Developer
 
 *Keywords*: django, python, js, jquery, postgresql, nginx, html, css
@@ -108,9 +107,9 @@ partners in Norway, Sweden, Denmark, Baltics and Poland.
 *Description*: Design and development of a simple campaign site with
 a simple backoffice administration GUI for HMode.
 
-# [Iterate AS](https://iterate.no)
-## Leancast
-### 2016-02&ndash;
+## [Iterate AS](https://iterate.no)
+### Leancast
+#### 2016-02&ndash;
 
 *Role*: Developer
 
@@ -118,18 +117,18 @@ a simple backoffice administration GUI for HMode.
 
 *Description*: Custom-built Internal time reporting tool for Iterate
 
-# [JC Älmhult](http://jcalmhult.se)
-## Website
-### 2011-01&ndash;2011-02
+## [JC Älmhult](http://jcalmhult.se)
+### Website
+#### 2011-01&ndash;2011-02
 *Role*: Developer
 
 *Keywords*: django, python, html
 
 *Description*: Design and development of a simple site with a small backoffice.
 
-# [Kaxig](http://kaxig.com)
-## Various PSD-to-HTML conversion jobs
-### 2005-08&ndash;2008-06
+## [Kaxig](http://kaxig.com)
+### Various PSD-to-HTML conversion jobs
+#### 2005-08&ndash;2008-06
 *Role*: Web-developer
 
 *Keywords*: cms, html, cf, linux, sql, ssl, bash
@@ -140,9 +139,9 @@ Photoshop-file, but every now and then there were some linux-related tasks that
 needed to be done, e.g. database replication, new ssl certificates, fail-over
 trigger scripts, etc.
 
-# [NAV](http://nav.no)
-## Pensjonsprogrammet
-### 2011-01&ndash;2011-05
+## [NAV](http://nav.no)
+### Pensjonsprogrammet
+#### 2011-01&ndash;2011-05
 *Role*: Environment maintenance/support/developer
 
 *Keywords*: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
@@ -150,9 +149,9 @@ trigger scripts, etc.
 *Description*: Developed a CMDB system in Python, integration against Confluence
 and maintained the servers running WebSphere (WAS/WPS).
 
-# [Perigee](http://perigee.se)
-## Pocket Cycle Backend
-### 2012-11&ndash;2014-12
+## [Perigee](http://perigee.se)
+### Pocket Cycle Backend
+#### 2012-11&ndash;2014-12
 *Role*: Backend developer
 
 *Keywords*: python, flask, json, rest, webservice, api, azure
@@ -161,9 +160,9 @@ and maintained the servers running WebSphere (WAS/WPS).
 connections, persistence, etc. that talks JSON and also deals with IOS
 notification integration through Microsoft Azure.
 
-# [Sony Ericsson](http://sonyericsson.com)
-## PlayNow Arena
-### 2008-09&ndash;2010-01
+## [Sony Ericsson](http://sonyericsson.com)
+### PlayNow Arena
+#### 2008-09&ndash;2010-01
 *Role*: Front-end developer (mobile &amp; web)
 
 *Keywords*: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring,
@@ -172,8 +171,8 @@ windows, linux, html, tdd
 *Description*: Part of the UX-team which was responsible for the web and mobile
 web clients and the user experience of the webshop.
 
-## PlayNow Arena
-### 2008-06&ndash;2008-09
+### PlayNow Arena
+#### 2008-06&ndash;2008-09
 *Role*: Usability tester (web)
 
 *Keywords*: ux, web, windows, testscripts
@@ -181,17 +180,17 @@ web clients and the user experience of the webshop.
 *Description*: Tasked with isolating problems related to the user experience
 and writing reports on how to fix it.
 
-# [SPK](http://spk.no)
-## Agresso 2014
-### 2013-03&ndash;2013-07
+## [SPK](http://spk.no)
+### Agresso 2014
+#### 2013-03&ndash;2013-07
 *Role*: Developer
 
 *Keywords*: ad, ldap, java, webservice, spring, tdd
 
 *Description*: 
 
-## Business processes
-### 2013-01&ndash;2013-07
+### Business processes
+#### 2013-01&ndash;2013-07
 *Role*: System manager and developer for off-the-shelf software
 
 *Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
@@ -208,16 +207,16 @@ Some tidbits of work done at this role:
 - Developed scripts for workflow automation, for example, automatic retrieval
   of files from the EHF-infrastructure
 
-## IT Service & Support (ITSOS)
-### 2012-09&ndash;2012-12
+### IT Service & Support (ITSOS)
+#### 2012-09&ndash;2012-12
 *Role*: Developer
 
 *Keywords*: java, jira, sql
 
 *Description*: Custom JIRA plugin with features to replace HP QualityCenter with JIRA.
 
-## System development & maintenance
-### 2012-04&ndash;2012-08
+### System development & maintenance
+#### 2012-04&ndash;2012-08
 *Role*: System/front-end developer
 
 *Keywords*: flex, java, batch, spring, tdd, fitnesse, linux, windows, jboss
@@ -226,16 +225,16 @@ Some tidbits of work done at this role:
 retired people, logic related to claims/counter-claims against other pension
 funds in batch jobs based on Spring.
 
-## PERFORM Consolidation
-### 2012-01&ndash;2012-03
+### PERFORM Consolidation
+#### 2012-01&ndash;2012-03
 *Role*: System/Front-end developer
 
 *Keywords*: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch, tdd
 
 *Description*: Maintenance and consolidation of the pension process software suite.
 
-## PERFORM
-### 2011-06&ndash;2011-12
+### PERFORM
+#### 2011-06&ndash;2011-12
 *Role*: System/Front-end developer
 
 *Keywords*: java, flex, jboss, hibernate, spring, linux, windows, sql, tdd
@@ -244,9 +243,9 @@ funds in batch jobs based on Spring.
 managing government pensions. Work included Spring in many forms: MVC, batch,
 security, etc.
 
-# [Svenska Handelsbanken](http://handelsbanken.se)
-## Support/Maintenance
-### 2010-10&ndash;2010-12
+## [Svenska Handelsbanken](http://handelsbanken.se)
+### Support/Maintenance
+#### 2010-10&ndash;2010-12
 *Role*: Developer/Support Operator
 
 *Keywords*: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
@@ -256,8 +255,8 @@ wsdl, support, windows, linux, activemq, html, tdd
 new releases, customer expectation management. Training new support operators
 and writing training documentation.
 
-## Mobile bank (phase 2)
-### 2010-08&ndash;2010-10
+### Mobile bank (phase 2)
+#### 2010-08&ndash;2010-10
 *Role*: Lead developer (vertical stack)
 
 *Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, rest, wsdl,
@@ -267,8 +266,8 @@ windows, linux, activemq, html, tdd
 look and feel. Responsible for the complete stack and the API consumed by
 Iphone/Android applications.
 
-## Mobile bank (phase 1)
-### 2010-01&ndash;2010-06
+### Mobile bank (phase 1)
+#### 2010-01&ndash;2010-06
 *Role*: Front-end team lead
 
 *Keywords*: js, velocity, mobile, spring, jboss, msdp, webservice, wsdl,
@@ -279,9 +278,9 @@ needs, designing the technical implementation, leading the front-end and API
 development effort and plugging security holes after a third party penetration
 testing and security analysis of the application.
 
-# Svärdells AB
-## Graphical print material
-### 2010&ndash; *present*
+## Svärdells AB
+### Graphical print material
+#### 2010&ndash; *present*
 *Role*: Designer
 
 *Keywords*: photoshop
@@ -289,9 +288,9 @@ testing and security analysis of the application.
 *Description*: Design and production of print-ready advertisements on a ad-hoc
 basis.
 
-# [vardevs](http://vardevs.se) (a.k.a pet projects)
-## WebChess
-### 2013-02&ndash; *present*
+## [vardevs](http://vardevs.se) (a.k.a pet projects)
+### WebChess
+#### 2013-02&ndash; *present*
 *Role*: Developer
 
 *Keywords*: js, nodejs, nosql, mongodb, html, tdd
@@ -303,8 +302,8 @@ javascript. Some features:
 - JavaScript client for Web
 - Local multiplayer (that can be resumed from separate devices) on e.g. tablets
 
-## Kindress
-### 2012-10&ndash; *present*
+### Kindress
+#### 2012-10&ndash; *present*
 *Role*: Developer
 
 *Keywords*: python, kindle, ebook, rss, html
@@ -313,17 +312,17 @@ javascript. Some features:
 today's items into a neatly packaged e-book that is e-mailed to your Kindle for
 easy consumption.
 
-## vlv.io
-### 2012-01&ndash; *present*
+### vlv.io
+#### 2012-01&ndash; *present*
 *Role*: Developer
 
 *Keywords*: python, markdown, flask, html
 
 *Description*: Flat-file blog project
 
-# [Verona Motor](http://veronamotor.se)
-## Redux web
-### 2011-10&ndash;2012-03
+## [Verona Motor](http://veronamotor.se)
+### Redux web
+#### 2011-10&ndash;2012-03
 *Role*: Developer
 
 *Keywords*: django, python, js, jquery, postgresql, nginx, html
