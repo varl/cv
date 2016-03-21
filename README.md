@@ -58,5 +58,5 @@ Projects for:
 
 #### 2005&ndash;2008, Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
-Projects:
+Projects for:
 - [Kaxig](https://github.com/varl/cv/blob/master/PROJECTS.md#kaxig)
