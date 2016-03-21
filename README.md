@@ -48,16 +48,19 @@ Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
 
 Project experience
 ------------------
-
 # [Amedia](http://amedia.no)
 ## Development and support for publishing tools for 70+ local newspapers in Norway
-### 2015-08&ndash;
-*Role*: Team Lead &amp; Front-end and back-end developer
+### 2015-08&ndash;2016-04
+*Role*: Team Lead &amp; Full-stack developer
 
 *Keywords*: escenic, node.js, javascript, jquery, handlebars, linux,
 java, spring, micro services, varnish, docker
 
-*Description*: 
+*Description*: Team lead for the Front-end team. Responsible for the front-end stack which drives 8 million page views daily.
+
+# [Cisco Systems](http://cisco.com)
+## 
+### 2016-04&ndash;
 
 # [Ericsson](http://ericsson.se)
 ## FIFA World Cup: Platform Expert
@@ -151,6 +154,16 @@ partners in Norway, Sweden, Denmark, Baltics and Poland.
 
 *Description*: Design and development of a simple campaign site with
 a simple backoffice administration GUI for HMode.
+
+# [Iterate AS](https://iterate.no)
+## Leancast
+### 2016-02&ndash;
+
+*Role*: Developer
+
+*Keywords*: django, python, js, postgresql, html, css, sass, bourbon, neat
+
+*Description*: Custom-built Internal time reporting tool for Iterate
 
 # [JC Älmhult](http://jcalmhult.se)
 ## Website
