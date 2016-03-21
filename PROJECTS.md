@@ -166,7 +166,7 @@ and writing reports on how to fix it.
 
 *Keywords*: ad, ldap, java, webservice, spring, tdd
 
-*Description*: 
+*Description*: Technical point of contact for EVRY and SPK regarding implementation of e.g. automatic send/receieve of invoices.
 
 ### Business processes
 #### 2013-01&ndash;2013-07, System manager and developer for off-the-shelf software
