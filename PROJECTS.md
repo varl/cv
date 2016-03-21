@@ -2,8 +2,7 @@
 
 ## [Amedia](http://amedia.no)
 ### Development and support for publishing tools for 70+ local newspapers in Norway
-#### 2015-08&ndash;2016-04
-*Role*: Team Lead &amp; Full-stack developer
+#### 2015-08&ndash;2016-04, Team Lead &amp; Full-stack developer
 
 *Keywords*: escenic, node.js, javascript, jquery, handlebars, linux,
 java, spring, micro services, varnish, docker
@@ -16,8 +15,7 @@ java, spring, micro services, varnish, docker
 
 ## [Ericsson](http://ericsson.se)
 ### FIFA World Cup: Platform Expert
-#### 2010-06&ndash;2010-07
-*Role*: MSDP Platform Expert
+#### 2010-06&ndash;2010-07, MSDP Platform Expert
 
 *Keywords*: msdp, linux, oracle, db, java, sql
 
@@ -26,8 +24,7 @@ with MSDP used to serve the mobile portals for FIFA, both the premium portals
 that ISPs world-wide purchased (SaaS) and FIFA's official portal.
 
 ### FIFA World Cup: Premium Portals
-#### 2010-02&ndash;2010-05
-*Role*: Developer
+#### 2010-02&ndash;2010-05, Developer
 
 *Keywords*: xml, xlst, rest, xsd, msdp, jsp, windows, linux
 
@@ -38,8 +35,7 @@ ringtones, etc.
 
 ## [Gjensidige](http://gjensidige.no)
 ### Redesign of the customer portal
-#### 2013-08&ndash;2014-06
-*Role*: Developer
+#### 2013-08&ndash;2014-06, Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
 
@@ -48,8 +44,7 @@ and greatest version. Implement a different look and feel for the customer
 portal.
 
 ### Maintenance
-#### 2014-06&ndash;2014-08
-*Role*: Developer
+#### 2014-06&ndash;2014-08, Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
 
@@ -57,8 +52,7 @@ portal.
 in use.
 
 ### Digital travel insurance card
-#### 2014-08&ndash;2015-01
-*Role*: Developer
+#### 2014-08&ndash;2015-01, Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
 
@@ -66,8 +60,7 @@ in use.
 cards that customers can administrate by themselves from the customer portal.
 
 ### Redesign of the customer portal: Phase 2
-#### 2015-01&ndash;2015-04
-*Role*: Developer
+#### 2015-01&ndash;2015-04, Developer
 
 *Keywords*: enonic, javascript, css3, html5, xml, xslt, spring, java, angularjs
 
@@ -76,18 +69,14 @@ that customers experience with the customer portal. Among them is the developmen
 of a new document archive client which has better usability and updated design.
 
 ### Ny Nettbutikk (New webshop)
-#### 2015-04&ndash;2015-05
-
-*Role*: Developer, GJEFF expert, DevOps
+#### 2015-04&ndash;2015-05, Developer, GJEFF expert, DevOps
 
 *Description*: Execute user tests, implement design elements into the Gjensidige
 Frontend Framework (GJEFF), act as subject matter expert regarding GJEFF and ease
 the transition into virtual development images for developers.
 
 ### Gjensidige Frontend Framework Improvement
-#### 2015-06&ndash;2015-08
-
-*Role*: Frontend Tech Lead, 
+#### 2015-06&ndash;2015-08, Tech Lead
 
 *Description*: The intervention has two major goals:
 
@@ -99,8 +88,7 @@ partners in Norway, Sweden, Denmark, Baltics and Poland.
 
 ## [HMode](http://hmode.se)
 ### Website
-#### 2011-01&ndash;2011-05
-*Role*: Developer
+#### 2011-01&ndash;2011-05, Developer
 
 *Keywords*: django, python, js, jquery, postgresql, nginx, html, css
 
@@ -109,9 +97,7 @@ a simple backoffice administration GUI for HMode.
 
 ## [Iterate AS](https://iterate.no)
 ### Leancast
-#### 2016-02&ndash;
-
-*Role*: Developer
+#### 2016-02&ndash;, Developer
 
 *Keywords*: django, python, js, postgresql, html, css, sass, bourbon, neat
 
@@ -119,8 +105,7 @@ a simple backoffice administration GUI for HMode.
 
 ## [JC Älmhult](http://jcalmhult.se)
 ### Website
-#### 2011-01&ndash;2011-02
-*Role*: Developer
+#### 2011-01&ndash;2011-02, Developer
 
 *Keywords*: django, python, html
 
@@ -128,8 +113,7 @@ a simple backoffice administration GUI for HMode.
 
 ## [Kaxig](http://kaxig.com)
 ### Various PSD-to-HTML conversion jobs
-#### 2005-08&ndash;2008-06
-*Role*: Web-developer
+#### 2005-08&ndash;2008-06, Web-developer
 
 *Keywords*: cms, html, cf, linux, sql, ssl, bash
 
@@ -141,8 +125,7 @@ trigger scripts, etc.
 
 ## [NAV](http://nav.no)
 ### Pensjonsprogrammet
-#### 2011-01&ndash;2011-05
-*Role*: Environment maintenance/support/developer
+#### 2011-01&ndash;2011-05, Environment maintenance/support/developer
 
 *Keywords*: maven, websphere, was, wps, java, adm, python, confluence, clearcase, windows, linux
 
@@ -151,8 +134,7 @@ and maintained the servers running WebSphere (WAS/WPS).
 
 ## [Perigee](http://perigee.se)
 ### Pocket Cycle Backend
-#### 2012-11&ndash;2014-12
-*Role*: Backend developer
+#### 2012-11&ndash;2014-12, Backend developer
 
 *Keywords*: python, flask, json, rest, webservice, api, azure
 
@@ -162,8 +144,7 @@ notification integration through Microsoft Azure.
 
 ## [Sony Ericsson](http://sonyericsson.com)
 ### PlayNow Arena
-#### 2008-09&ndash;2010-01
-*Role*: Front-end developer (mobile &amp; web)
+#### 2008-09&ndash;2010-01, Front-end developer (mobile &amp; web)
 
 *Keywords*: js, velocity, java, tomcat, dwr, jquery, mobile, web, spring,
 windows, linux, html, tdd
@@ -172,8 +153,7 @@ windows, linux, html, tdd
 web clients and the user experience of the webshop.
 
 ### PlayNow Arena
-#### 2008-06&ndash;2008-09
-*Role*: Usability tester (web)
+#### 2008-06&ndash;2008-09, Usability tester
 
 *Keywords*: ux, web, windows, testscripts
 
@@ -182,16 +162,14 @@ and writing reports on how to fix it.
 
 ## [SPK](http://spk.no)
 ### Agresso 2014
-#### 2013-03&ndash;2013-07
-*Role*: Developer
+#### 2013-03&ndash;2013-07, Developer
 
 *Keywords*: ad, ldap, java, webservice, spring, tdd
 
 *Description*: 
 
 ### Business processes
-#### 2013-01&ndash;2013-07
-*Role*: System manager and developer for off-the-shelf software
+#### 2013-01&ndash;2013-07, System manager and developer for off-the-shelf software
 
 *Keywords*: agresso, jira, tidbank, confluence, java, linux, windows, sql, p360, js, html
 
@@ -208,16 +186,14 @@ Some tidbits of work done at this role:
   of files from the EHF-infrastructure
 
 ### IT Service & Support (ITSOS)
-#### 2012-09&ndash;2012-12
-*Role*: Developer
+#### 2012-09&ndash;2012-12, Developer
 
 *Keywords*: java, jira, sql
 
 *Description*: Custom JIRA plugin with features to replace HP QualityCenter with JIRA.
 
 ### System development & maintenance
-#### 2012-04&ndash;2012-08
-*Role*: System/front-end developer
+#### 2012-04&ndash;2012-08, System/front-end developer
 
 *Keywords*: flex, java, batch, spring, tdd, fitnesse, linux, windows, jboss
 
@@ -226,16 +202,14 @@ retired people, logic related to claims/counter-claims against other pension
 funds in batch jobs based on Spring.
 
 ### PERFORM Consolidation
-#### 2012-01&ndash;2012-03
-*Role*: System/Front-end developer
+#### 2012-01&ndash;2012-03, System/Front-end developer
 
 *Keywords*: java, flex, jboss, hibernate, spring, linux, windows, bash, sql, batch, tdd
 
 *Description*: Maintenance and consolidation of the pension process software suite.
 
 ### PERFORM
-#### 2011-06&ndash;2011-12
-*Role*: System/Front-end developer
+#### 2011-06&ndash;2011-12, System/Front-end developer
 
 *Keywords*: java, flex, jboss, hibernate, spring, linux, windows, sql, tdd
 
@@ -245,8 +219,7 @@ security, etc.
 
 ## [Svenska Handelsbanken](http://handelsbanken.se)
 ### Support/Maintenance
-#### 2010-10&ndash;2010-12
-*Role*: Developer/Support Operator
+#### 2010-10&ndash;2010-12, Developer/Support Operator
 
 *Keywords*: jira, js, velocity, mobile, spring, jboss, msdp, webservice, rest,
 wsdl, support, windows, linux, activemq, html, tdd
@@ -304,7 +277,7 @@ javascript. Some features:
 
 ### Kindress
 #### 2012-10&ndash; *present*
-*Role*: Developer
+*Role*: Developer, DevOps
 
 *Keywords*: python, kindle, ebook, rss, html
 
@@ -314,7 +287,7 @@ easy consumption.
 
 ### vlv.io
 #### 2012-01&ndash; *present*
-*Role*: Developer
+*Role*: Developer, DevOps
 
 *Keywords*: python, markdown, flask, html
 
@@ -322,8 +295,7 @@ easy consumption.
 
 ## [Verona Motor](http://veronamotor.se)
 ### Redux web
-#### 2011-10&ndash;2012-03
-*Role*: Developer
+#### 2011-10&ndash;2012-03, Developer, DevOps
 
 *Keywords*: django, python, js, jquery, postgresql, nginx, html
 
