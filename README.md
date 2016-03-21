@@ -34,7 +34,7 @@ Work experience
 ## 2013&ndash; *present*
 Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
 
-Clients:
+Projects for:
   - [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia)
   - [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems)
   - [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige)
@@ -42,20 +42,30 @@ Clients:
 ## 2011&ndash;2013
 Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
 
-Clients: 
+Projects for: 
   - [NAV](https://github.com/varl/cv/blob/master/PROJECTS.md#nav)
   - [SPK](https://github.com/varl/cv/blob/master/PROJECTS.md#spk)
 
 ## 2010&ndash; *present*
 Owner, [vardevs](http://vardevs.se), Sweden
 
+Projects for:
+- [HMode](https://github.com/varl/cv/blob/master/PROJECTS.md#hmode)
+- [JC Älmhult](https://github.com/varl/cv/blob/master/PROJECTS.md#jc-Älmhult)
+- [Verona Motor](https://github.com/varl/cv/blob/master/PROJECTS.md#verona-motor)
+- [Svärdells AB](https://github.com/varl/cv/blob/master/PROJECTS.md#svärdells-ab)
+- [Perigee](https://github.com/varl/cv/blob/master/PROJECTS.md#perigee)
+
 ## 2008&ndash;2010
 Consultant, [Cybercom Group](http://cybercom.se), Karlskrona (Sweden)
 
-Clients:
+Projects for:
 - [Svenska Handelsbanken](https://github.com/varl/cv/blob/master/PROJECTS.md#svenska-handelsbanken)
 - [Sony Ericsson Mobile Sweden](https://github.com/varl/cv/blob/master/PROJECTS.md#sony-ericsson)
 - [Ericsson / FIFA](https://github.com/varl/cv/blob/master/PROJECTS.md#ericsson)
 
 ## 2005&ndash;2008
 Web-developer, [Kaxig Idébyrå](http://kaxig.com), Älmhult (Sweden)
+
+Projects:
+- [Kaxig](https://github.com/varl/cv/blob/master/PROJECTS.md#kaxig)
