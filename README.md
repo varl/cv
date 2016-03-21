@@ -1,15 +1,12 @@
-Curriculum Vitae
-================
+# Curriculum Vitae
 
-Introduction
-------------
+## Introduction
 Dedicated web developer with an eye out for The Next Big Thing™ capable and
 eager to work on projects small and large where the vision is greater than
 the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
-Skills
-------
+## Skills
 - Programming languages
 -- Java, Python, SQL, C, Javascript, PHP, Bash
 
@@ -29,6 +26,7 @@ jUnit, Bootstrap 3, Karma, Protractor
 ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
 Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
 
+## Work Experience
 #### 2013&ndash;*present*, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
 
 Projects for:
