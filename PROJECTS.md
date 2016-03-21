@@ -261,38 +261,6 @@ testing and security analysis of the application.
 *Description*: Design and production of print-ready advertisements on a ad-hoc
 basis.
 
-## [vardevs](http://vardevs.se) (a.k.a pet projects)
-### WebChess
-#### 2013-02&ndash; *present*
-*Role*: Developer
-
-*Keywords*: js, nodejs, nosql, mongodb, html, tdd
-
-*Description*: A turn-based multiplayer chess game built completely in
-javascript. Some features:
-- Telnet compatible (because, why not?)
-- Play over e-mail (correspondence chess)
-- JavaScript client for Web
-- Local multiplayer (that can be resumed from separate devices) on e.g. tablets
-
-### Kindress
-#### 2012-10&ndash; *present*
-*Role*: Developer, DevOps
-
-*Keywords*: python, kindle, ebook, rss, html
-
-*Description*: An application that grabs all given RSS-feeds and formats all
-today's items into a neatly packaged e-book that is e-mailed to your Kindle for
-easy consumption.
-
-### vlv.io
-#### 2012-01&ndash; *present*
-*Role*: Developer, DevOps
-
-*Keywords*: python, markdown, flask, html
-
-*Description*: Flat-file blog project
-
 ## [Verona Motor](http://veronamotor.se)
 ### Redux web
 #### 2011-10&ndash;2012-03, Developer, DevOps
