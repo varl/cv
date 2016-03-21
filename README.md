@@ -29,9 +29,9 @@ jUnit, Bootstrap 3, Karma, Protractor
 ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
 Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
 
-Work experience
----------------
-## 2013&ndash; *present*
+Current
+-------
+## 2013&ndash;*present*
 Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
 
 Projects for:
@@ -39,14 +39,7 @@ Projects for:
   - [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems)
   - [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige)
 
-## 2011&ndash;2013
-Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
-
-Projects for: 
-  - [NAV](https://github.com/varl/cv/blob/master/PROJECTS.md#nav)
-  - [SPK](https://github.com/varl/cv/blob/master/PROJECTS.md#spk)
-
-## 2010&ndash; *present*
+## 2010&ndash;*present*
 Owner, [vardevs](http://vardevs.se), Sweden
 
 Projects for:
@@ -55,6 +48,15 @@ Projects for:
 - [Verona Motor](https://github.com/varl/cv/blob/master/PROJECTS.md#verona-motor)
 - [Svärdells AB](https://github.com/varl/cv/blob/master/PROJECTS.md#svärdells-ab)
 - [Perigee](https://github.com/varl/cv/blob/master/PROJECTS.md#perigee)
+
+Experience
+----------
+## 2011&ndash;2013
+Software Engineer, [Accenture](http://accenture.com), Oslo (Norway)
+
+Projects for: 
+  - [NAV](https://github.com/varl/cv/blob/master/PROJECTS.md#nav)
+  - [SPK](https://github.com/varl/cv/blob/master/PROJECTS.md#spk)
 
 ## 2008&ndash;2010
 Consultant, [Cybercom Group](http://cybercom.se), Karlskrona (Sweden)
