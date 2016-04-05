@@ -28,7 +28,7 @@ ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluenc
 Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
 
 - Methodology
--- Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup, SPRINT
+-- Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup, SPRINT, TDD
 
 ## Work Experience
 #### 2013&ndash;*present*, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
