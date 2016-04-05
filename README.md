@@ -38,7 +38,7 @@ Projects for:
   - [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems)
   - [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige)
 
-#### 2010&ndash;*present*, Owner, [vardevs](http://vardevs.se), Sweden
+#### 2010&ndash;*present*, Owner, [vardevs](http://vardevs.se), (Sweden)
 
 Projects for:
 - [HMode](https://github.com/varl/cv/blob/master/PROJECTS.md#hmode)
