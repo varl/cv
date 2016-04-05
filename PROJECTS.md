@@ -96,6 +96,13 @@ partners in Norway, Sweden, Denmark, Baltics and Poland.
 a simple backoffice administration GUI for HMode.
 
 ## [Iterate AS](https://iterate.no)
+### Roadtrip &amp; WoolIt
+#### 2016-03&ndash;2016-04, "Entrepreneur"
+
+*Keywords*: lean, startup, sprint
+
+*Description*: As part of Iterate's new strategy to innovate on what it means to be an IT-consultancy we were given 2 weeks to come up with an idea for a validated problem and a solution/product to solve that problem in a validated way. We had two candidates and ran with each idea for a week and attempted to validate as much as we could about each problem. If we decide to invest in the solution a team will work full-time for a longer spike and see if they can make it work in the wild.
+
 ### Leancast
 #### 2016-02&ndash;, Developer &amp; Product Champion
 
