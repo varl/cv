@@ -97,11 +97,16 @@ a simple backoffice administration GUI for HMode.
 
 ## [Iterate AS](https://iterate.no)
 ### Leancast
-#### 2016-02&ndash;, Developer
+#### 2016-02&ndash;, Developer &amp; Product Champion
 
 *Keywords*: django, python, js, postgresql, html, css, sass, bourbon, neat
 
-*Description*: Custom-built Internal time reporting tool for Iterate
+*Description*: Custom-built Internal time reporting tool for Iterate which is developed and maintained by the employees as a product. Acting as Product Champion one acts as product owner, lead developer and project manager combined into one role (because it is leaner). Responsibilities include:
+
+- should be able to answer any questions regarding the application. If not, should be able to find out.
+- delegate tasks that needs to be done and coordinating changes
+- be active in code reviews
+- finding his/her own success
 
 ## [JC Älmhult](http://jcalmhult.se)
 ### Website
