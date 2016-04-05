@@ -7,28 +7,27 @@ the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
 ## Skills
-- Programming languages
--- Primary: Java, Python, JavaScript, *sh, SQL
--- Currently exploring: Clojure, Go
+### Methodologies
+Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup,
+SPRINT, TDD
 
-- Miscellaneous web fundamentals
--- HTML(5), CSS(3), XHTML, XML, XSD, XSLT
+### Programming languages
+Java, Python, JavaScript, \*sh, SQL
 
-- Databases
--- PostgreSQL, MySQL
+Currently exploring: Clojure, Go
 
-- Frameworks
--- Spring, Django, React.js, jQuery, Flask, Node.js, Hibernate, Flex, Jasmine,
-DWR, LESS, SASS, AngularJS, Velocity, Jersey, Jackson, Jira API, Enonic CMS API,
-jUnit, Bootstrap 3, Karma, Protractor, React.js, Redux
+### Databases
+PostgreSQL, MySQL
 
-- Tools
--- Maven, Grunt, Phantom.js, Nginx, JBoss, Tomcat, WebSphere,
+### Web technologies
+HTML(5), CSS(3), XHTML, XML, XSD, XSLT, Spring, Django, React.js, jQuery, Flask,
+Node.js, Hibernate, Flex, Jasmine, DWR, LESS, SASS, AngularJS, Velocity, Jersey,
+Jackson, Jira API, Enonic CMS API, jUnit, Bootstrap 3, Karma, Protractor, Redux
+
+### Tools
+Maven, Grunt, Phantom.js, Nginx, JBoss, Tomcat, WebSphere, Supervisor, Tmux, Zsh,
 ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
-Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
-
-- Methodology
--- Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup, SPRINT, TDD
+Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse, Bash, Vim, IntelliJ
 
 ## Work Experience
 #### 2013&ndash;*present*, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
