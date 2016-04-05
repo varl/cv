@@ -8,23 +8,27 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 ## Skills
 - Programming languages
--- Java, Python, SQL, C, Javascript, PHP, Bash
+-- Primary: Java, Python, JavaScript, *sh, SQL
+-- Currently exploring: Clojure, Go
 
-- Markup
--- Markdown, WikiCode, HTML, CSS, XML/XSD/XSLT, JSON,
+- Miscellaneous web fundamentals
+-- HTML(5), CSS(3), XHTML, XML, XSD, XSLT
 
 - Databases
--- PostgreSQL, MySQL, MSSQL
+-- PostgreSQL, MySQL
 
 - Frameworks
 -- Spring, Django, React.js, jQuery, Flask, Node.js, Hibernate, Flex, Jasmine,
 DWR, LESS, SASS, AngularJS, Velocity, Jersey, Jackson, Jira API, Enonic CMS API,
-jUnit, Bootstrap 3, Karma, Protractor
+jUnit, Bootstrap 3, Karma, Protractor, React.js, Redux
 
 - Tools
 -- Maven, Grunt, Phantom.js, Nginx, JBoss, Tomcat, WebSphere,
 ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
 Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse
+
+- Methodology
+-- Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup, SPRINT
 
 ## Work Experience
 #### 2013&ndash;*present*, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
