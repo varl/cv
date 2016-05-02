@@ -11,7 +11,7 @@ java, spring, micro services, varnish, docker
 
 ## [Cisco Systems](http://cisco.com)
 ### Digital Whiteboard / Darling / Spark
-#### 2016-04&ndash;
+#### 2016-04&ndash;, Full-stack developer
 
 *Keywords*: javascript, react.js, android, wacom will
 
