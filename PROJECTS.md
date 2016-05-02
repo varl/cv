@@ -10,8 +10,13 @@ java, spring, micro services, varnish, docker
 *Description*: Team lead for the Front-end team. Responsible for the front-end stack which drives 8 million page views daily.
 
 ## [Cisco Systems](http://cisco.com)
-### 
+### Digital Whiteboard / Darling / Spark
 #### 2016-04&ndash;
+
+*Keywords*: javascript, react.js, android, wacom will
+
+*Description*: Develop and integrate a full-featured digital whiteboard into Cisco Spark platform and into 55/70" touch-enabled
+custom made screens with full video conference capabilities.
 
 ## [Ericsson](http://ericsson.se)
 ### FIFA World Cup: Platform Expert
