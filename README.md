@@ -21,6 +21,8 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 ## Favorite books
 - _Pragmatic Programmer_
 - _Zen and Art of Motorcycle Repair_
+- _Flatland_
+- _Steppenwolf_
 
 ## Skills
 ### Methodologies
