@@ -70,7 +70,7 @@ Projects for:
 - [Kaxig](https://github.com/varl/cv/blob/master/PROJECTS.md#kaxig)
 
 ## Skills
-![](res/buzz.jpg)
+![Buzz...buzz..buzz](res/buzz.jpg)
 
 ### Methodologies
 Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup,
