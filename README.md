@@ -19,22 +19,24 @@ out-of-the-box thinking and a unique approach to problems and solutions.
 
 ## What'll happen next?
 It is of increasing import to have meaning in my work, and to support this goal, first
-the word 'meaning' needs to be unpacked. That job is not finished, although so far I have these
+the word 'meaning' needs to be unpacked. That job is not finished, although thus far I have these
 moral rules to guide me towards meaningful work:
 
 - Create value
 - Reduce waste
 
+To me, no matter the context, these rules can guide my actions forward and ensure they stand up to ethical scrutiny.
+
 ## Favorite books
-- _Pragmatic Programmer_
-- _Zen and Art of Motorcycle Repair_
-- _Flatland_
-- _Steppenwolf_
+- [_Pragmatic Programmer_](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+- [_Zen and the Art of Motorcycle Maintenance_](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
+- [_Flatland_](https://en.wikipedia.org/wiki/Flatland)
+- [_Steppenwolf_](https://en.wikipedia.org/wiki/Steppenwolf_(novel))
 
 ## Skills
 ### Methodologies
 Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup,
-Google SPRINT, Test-driven development
+Google SPRINT, Test Driven Development
 
 ### Programming languages
 Java, Python, JavaScript, \*sh, SQL
