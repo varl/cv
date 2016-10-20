@@ -11,7 +11,7 @@ Well, My [Facebook profile](https://www.facebook.com/varlfu) is completely publi
 
 I run a company registered in Sweden called [vardevs](http://www.vardevs.se). I don't do much with it except host sites, buy domains, administer servers and the occasional development and operations for friends and family. It's an ongoing learning experiment about how a company works and has taught me about taxes, VAT, inter-country invoices, book keeping and publishing yearly reports.
 
-All-in-all _curious_ is a word I would not mind being applied to my personality.
+All-in-all _curious_ is a word I would not mind being applied to my personality. Currently I am exploring: Clojure, Go, and Elm.
 
 ## What's happened recently?
 - Consulting, last 3 customers:
@@ -85,8 +85,6 @@ Google SPRINT, Test Driven Development
 
 ### Programming languages
 Java, Python, JavaScript, \*sh, SQL
-
-Currently exploring: Clojure, Go, Elm
 
 ### Databases
 PostgreSQL, MySQL
