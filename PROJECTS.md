@@ -101,8 +101,17 @@ partners in Norway, Sweden, Denmark, Baltics and Poland.
 a simple backoffice administration GUI for HMode.
 
 ## [Iterate AS](https://iterate.no)
+
+### Woolit
+#### 2016-05&ndash;, Many hats
+
+*Keywords*: lean, venture, startup
+
+*Description*: Woolit is a platform where people can go to exchange services related to knitting. If someone wants a hand-made
+knitted sweater Woolit is the place to find a knitter that will take on the job. If you get inspired by a design it is simple to purchase that design and yarn right then and there, and if you cannot do it yourself, see the first point. 
+
 ### Roadtrip &amp; WoolIt
-#### 2016-03&ndash;2016-04, "Entrepreneur"
+#### 2016-03&ndash;2016-04, Many hats
 
 *Keywords*: lean, startup, sprint
 
