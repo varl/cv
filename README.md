@@ -6,6 +6,11 @@ eager to work on projects small and large where the vision is greater than
 the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
+## But who am I?
+Well, My [Facebook profile](https://www.facebook.com/varlfu) is completely public, so is my [Github profile](https://github.com/varl), and sometimes I [tweet stuff](https://twitter.com/varlx). I like weightlifting, programming, meditation, and motorcycles. I'm not a big fan of skiing, though it taught me valuable life lessons about priorities through injury. I like to write, which I do privately at [my blog](http://www.vlv.io) and I have been known to rant about topics that disturb me at [Iterate's blog](https://blog.iterate.no/author/vikvar/).
+
+I run a company registered in Sweden called [vardevs](http://www.vardevs.se). I don't do much with it except host sites, buy domains, administer servers and the occasional development and operations for friends and family. It's an ongoing learning experiment about how a company works and has taught me about taxes, VAT, inter-country invoices, book keeping and publishing yearly reports. 
+
 ## What's happened recently?
 - Consulting, last 3 customers:
   - _2013-2015_ [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige): back-end, front-end, devops, tech lead
