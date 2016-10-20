@@ -10,7 +10,7 @@
 
 ## [Haganässkolan](http://haganasskolan.se/)
 ### "Gymnasie" (High School), 2001-2004
-"Elprogrammet m. inriktning Elektronik/Data" (Electrician programme with focus on electronics and computer science)
+Elprogrammet m. inriktning Elektronik/Data (Electrician programme with focus on electronics and computer science)
 
 ## [Klöxhultsskolan](http://www.almhult.se/toppmeny/barnutbildning/grundskola/kloxhultsskolan.4.40681f1210df538087680004422.html)
 ### "Grundskolan" (Middle School), 1996-2001
