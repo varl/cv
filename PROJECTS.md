@@ -102,6 +102,11 @@ a simple backoffice administration GUI for HMode.
 
 ## [Iterate AS](https://iterate.no)
 
+### Board
+#### 2016-08&ndash;, Board member representative for employees
+
+*Description*: Voted onto the board by peers to protect the interests of the employees.
+
 ### Woolit
 #### 2016-05&ndash;, Many hats
 
