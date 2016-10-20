@@ -7,16 +7,23 @@ the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
 ## What's happened recently?
-
 - Consulting, last 3 customers:
-  - 2013-2015 Gjensidige: back-end, front-end, devops, tech lead
-  - 2015-2016 Amedia: back-end, front-end, team lead, devops
-  - 2016-     Cisco: front-end, devops, tech lead
+  - _2013-2015_ [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige): back-end, front-end, devops, tech lead
+  - _2015-2016_ [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia): back-end, front-end, team lead, devops
+  - _2016&ndash;_ [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems): front-end, devops, tech lead
 
 - Professional development
   - Mentor for developers
-  - Member of the board of Iterate AS
+  - Board member
   - Recruitment, evaluating and interviewing candidates
+
+## What'll happen next?
+It is of increasing import to have meaning in my work, and to support this goal, first
+the word 'meaning' needs to be unpacked. That job is not finished, although so far I have these
+moral rules to guide me towards meaningful work:
+
+- Create value
+- Reduce waste
 
 ## Favorite books
 - _Pragmatic Programmer_
@@ -54,6 +61,7 @@ Projects for:
   - [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia)
   - [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems)
   - [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige)
+  - [Woolit](https://github.com/varl/cv/blob/master/PROJECTS.md#woolit)
 
 #### 2010&ndash;*present*, Owner, [vardevs](http://vardevs.se), (Sweden)
 
