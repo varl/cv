@@ -6,15 +6,31 @@ eager to work on projects small and large where the vision is greater than
 the sum of its parts. An independent worker with a fluid mind ensures
 out-of-the-box thinking and a unique approach to problems and solutions.
 
+## What's happened recently?
+
+- Consulting, last 3 customers:
+  - 2013-2015 Gjensidige: back-end, front-end, devops, tech lead
+  - 2015-2016 Amedia: back-end, front-end, team lead, devops
+  - 2016-     Cisco: front-end, devops, tech lead
+
+- Professional development
+  - Mentor for developers
+  - Member of the board of Iterate AS
+  - Recruitment, evaluating and interviewing candidates
+
+## Favorite books
+- _Pragmatic Programmer_
+- _Zen and Art of Motorcycle Repair_
+
 ## Skills
 ### Methodologies
 Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup,
-SPRINT, TDD
+Google SPRINT, Test-driven development
 
 ### Programming languages
 Java, Python, JavaScript, \*sh, SQL
 
-Currently exploring: Clojure, Go
+Currently exploring: Clojure, Go, Elm
 
 ### Databases
 PostgreSQL, MySQL
