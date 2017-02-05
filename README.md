@@ -22,17 +22,14 @@ All-in-all _curious_ is a word I would not mind being applied to my personality.
 - Professional development
   - Mentor for developers
   - Board member
-  - Recruitment, evaluating and interviewing candidates
+  - Recruitment
 
 ## What'll happen next?
 It is of increasing import to have meaning in my work, and to support this goal, first
-the word 'meaning' needs to be unpacked. That job is not finished, although thus far I have these
-moral rules to guide me towards meaningful work:
+the word 'meaning' needs to be unpacked. This far I have these principles to guide me towards meaningful work:
 
 - Create value
 - Reduce waste
-
-To me, no matter the context, these rules can guide my actions forward and ensure they stand up to ethical scrutiny.
 
 ## Favorite books
 - [_Pragmatic Programmer_](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
