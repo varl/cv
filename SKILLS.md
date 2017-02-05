@@ -6,6 +6,7 @@
 - Test-driven development
 - Domain-driven development
 - Lean software development
+- DevOps
 
 # Programming languages
 - Java (read/write)
