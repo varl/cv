@@ -1,5 +1,4 @@
-
-### Methodologies
+# Methodologies
 - Agile
 - Scrum
 - Lean
@@ -8,7 +7,7 @@
 - Domain-driven development
 - Lean software development
 
-### Programming languages
+# Programming languages
 - Java (read/write)
 - JavaScript & nodejs (read/write)
 - Python 2 & 3 (read/write)
@@ -22,22 +21,69 @@
 - \*sh (read/write)
 - PHP (read/write)
 
-### Technologies
-- **ActionScript**: Flex
-- **Markup**: Markdown, HTML, XHTML, XML, XSD, XSLST
-- **CSS**: Bootstrap, LESS, SASS
-- **Java**: Spring, Hibernate, DWR, Velocity, Jersey, Jackson, JIRA API, Enonic CMS API, jUnit, Mock
-- **JavaScript**: jQuery, React, Vue.js, Redux, Bootstrap js, Angular 1, Jasmine, Chai, Mocha, Karma, Protractor, Service Workers, Virtual DOM, Incremental DOM, WebGL, Wacom WILL SDK, PhantomJS
-- **Python**: Django, Flask, virtualenv, pip
-- **PHP**: CakePHP
+# Technologies
 
-### Databases
+## ActionScript
+- Flex
+
+## Markup
+- Markdown
+- HTML
+- XHTML
+- XML
+- XSD
+- XSLST
+
+## CSS
+- Bootstrap
+- LESS
+- SASS
+
+## Java
+- Spring
+- Hibernate
+- DWR
+- Velocity
+- Jersey
+- Jackson
+- JIRA API
+- Enonic CMS API
+- jUnit
+- Mockito
+
+## JavaScript
+- jQuery
+- React
+- Vue.js
+- Redux
+- Bootstrap js
+- Angular 1
+- Jasmine
+- Chai
+- Mocha
+- Karma
+- Protractor
+- Service Workers
+- Virtual DOM
+- Incremental DOM
+- WebGL
+- Wacom WILL SDK
+- PhantomJS
+
+## Python
+- Django
+- Flask
+
+## PHP
+- CakePHP
+
+# Databases
 - PostgreSQL
 - MySQL
 - SQLite
 - IndexedDB
 
-### Application servers
+# Application servers
 - Tomcat
 - JBoss
 - Jetty
@@ -45,7 +91,7 @@
 - Nginx
 - Apache HTTP Server
 
-### Build, deploy, operations tools
+# Build, deploy, operations tools
 - Maven
 - Grunt
 - Gulp
@@ -60,7 +106,7 @@
 - Puppet
 - Git
 
-### Environment tools
+# Environment tools
 - tmux
 - vim
 - intellij
