@@ -78,7 +78,7 @@ Projects for:
 
 I focus on the bigger picture and strive to be full-stack. **NodeJS**, **Python**, **Java**, **\*sh** running on **Linux**, **Windows** and **MacOS** are the primary system level environments I rely on to do my job. **JavaScript**, **HTML** and **CSS** to create great user experiences in the client and back it using database storage such as **IndexedDB**, **SQLite** or **PostgreSQL** which I write hand-tuned **SQL** for. I deploy using **VPS** technology and set it up to hardened linux configuration and **nginx** for serving content and proxying requests to applications.
 
-For heavy hitters I set up cloud deployment to e.g. **Amazon's Cloud** or **Google's Cloud** and use **metrics** to automatically scale load-balance the production environments. **Measurements** drive a **pro-active** development mentality.
+For heavy hitters I set up cloud deployment to e.g. **Akamai**, **Amazon's Cloud**, or **Google's Cloud** and use **metrics** to automatically scale load-balance the production environments. **Measurements** drive a **pro-active** development mentality.
 
 I **test** my code using automated routines which run against every **commit** to our preferred **VCS**, the marvellous **Git**. I am **autonomous** within the **team**'s **alignment**. I take **responsibility** for our work as a whole and help out where I can.
 
