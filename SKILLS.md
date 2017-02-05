@@ -1,20 +1,68 @@
 
 ### Methodologies
-Agile, Scrum, Extreme Programming (XP), Lean, Lean Software Development, Lean Startup,
-Google SPRINT, Test Driven Development
+- Agile
+- Scrum
+- Lean
+- Kanban
+- Test-driven development
+- Domain-driven development
+- Lean software development
 
 ### Programming languages
-Java, Python, JavaScript, \*sh, SQL
+- Java (read/write)
+- JavaScript & nodejs (read/write)
+- Python 2 & 3 (read/write)
+- Clojure (read/write)
+- Go (read/write)
+- Elm (read/write)
+- C (read)
+- C++ (read)
+- Lisp (read)
+- VisualBasic (read/write)
+- \*sh (read/write)
+- PHP (read/write)
+
+### Technologies
+- **ActionScript**: Flex
+- **Markup**: Markdown, HTML, XHTML, XML, XSD, XSLST
+- **CSS**: Bootstrap, LESS, SASS
+- **Java**: Spring, Hibernate, DWR, Velocity, Jersey, Jackson, JIRA API, Enonic CMS API, jUnit, Mock
+- **JavaScript**: jQuery, React, Vue.js, Redux, Bootstrap js, Angular 1, Jasmine, Chai, Mocha, Karma, Protractor, Service Workers, Virtual DOM, Incremental DOM, WebGL, Wacom WILL SDK, PhantomJS
+- **Python**: Django, Flask, virtualenv, pip
+- **PHP**: CakePHP
 
 ### Databases
-PostgreSQL, MySQL
+- PostgreSQL
+- MySQL
+- SQLite
+- IndexedDB
 
-### Web technologies
-HTML(5), CSS(3), XHTML, XML, XSD, XSLT, Spring, Django, React.js, jQuery, Flask,
-Node.js, Hibernate, Flex, Jasmine, DWR, LESS, SASS, AngularJS, Velocity, Jersey,
-Jackson, Jira API, Enonic CMS API, jUnit, Bootstrap 3, Karma, Protractor, Redux
+### Application servers
+- Tomcat
+- JBoss
+- Jetty
+- WebSphere
+- Nginx
+- Apache HTTP Server
 
-### Tools
-Maven, Grunt, Phantom.js, Nginx, JBoss, Tomcat, WebSphere, Supervisor, Tmux, Zsh,
-ActiveMQ, Jira, Enonic CMS, Ericsson MSDP, Windows, Linux, OSX Server, Confluence,
-Photoshop, LDAP, REST, Selenium, Gatling, Fitnesse, Bash, Vim, IntelliJ
+### Build, deploy, operations tools
+- Maven
+- Grunt
+- Gulp
+- make
+- Webpack JS
+- Browserify JS
+- npm
+- Virtualenv
+- Docker
+- Vagrant
+- Supervisor
+- Puppet
+- Git
+
+### Environment tools
+- tmux
+- vim
+- intellij
+- \*sh
+- git
