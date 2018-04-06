@@ -14,10 +14,12 @@ I run a company registered in Sweden called [vardevs](http://www.vardevs.se). I 
 All-in-all _curious_ is a word I would not mind being applied to my personality. Currently I explore **Clojure**, **Go**, and **Elm**.
 
 ## What's happened recently?
+- Frontend Architect:
+  - _2017&ndash;_, [DHIS2](https://github.com/varl/cv/blob/master/PROJECTS.md#dhis2): front-end architect, team lead
 - Consulting, last 3 customers:
-  - _2013-2015_ [Gjensidige](https://github.com/varl/cv/blob/master/PROJECTS.md#gjensidige): back-end, front-end, devops, tech lead
-  - _2015-2016_ [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia): back-end, front-end, team lead, devops
-  - _2016&ndash;_ [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems): front-end, devops, tech lead
+  - _2015&ndash;2016_ [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia): back-end, front-end, team lead, devops
+  - _2016&ndash;2017_ [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems): front-end, devops, tech lead
+  - _2017&ndash;2017_ [PorterBuddy](https://github.com/varl/cv/blob/master/PROJECTS.md#porterbuddy): devops, cloud architect
 
 - Professional development
   - Mentor for developers
@@ -38,7 +40,13 @@ the word 'meaning' needs to be unpacked. This far I have these principles to gui
 - [_Steppenwolf_](https://en.wikipedia.org/wiki/Steppenwolf_(novel))
 
 ## Work Experience
-#### 2013&ndash;*present*, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
+#### 2017&ndash;*present*, Frontend Architect, [DHIS2](https://www.dhis2.org), Oslo (Norway)
+
+Responsibilities include:
+  - Team Leader
+  - Architect for how we build frontend applications
+
+#### 2013&ndash;2017, Solutions Engineer, [Iterate](http://iterate.no), Oslo (Norway)
 
 Projects for:
   - [Amedia](https://github.com/varl/cv/blob/master/PROJECTS.md#amedia)
