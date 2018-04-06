@@ -1,4 +1,4 @@
-#Project experience
+# Project experience
 
 ## [Amedia](http://amedia.no)
 ### Development and support for publishing tools for 70+ local newspapers in Norway
@@ -11,12 +11,19 @@ java, spring, micro services, varnish, docker
 
 ## [Cisco Systems](http://cisco.com)
 ### Digital Whiteboard / Darling / Spark
-#### 2016-04&ndash;, Full-stack developer
+#### 2016-04&ndash;2017-09, Full-stack developer
 
 *Keywords*: javascript, react.js, android, wacom will
 
-*Description*: Develop and integrate a full-featured digital whiteboard into Cisco Spark platform and into 55/70" touch-enabled
-custom made screens with full video conference capabilities.
+*Description*: Develop and integrate a full-featured digital whiteboard into Cisco Spark platform and into 55/70" touch-enabled custom made screens with full video conference capabilities.
+
+## [DHIS2](https://www.dhis2.org)
+### Health management information system
+#### 2017-12&ndash;, Frontend Architect & Team Lead
+
+*Keywords*: dhis2, javascript, react
+
+*Description*: DHIS2 is a HMIS which is [deployed on a national scale](https://www.dhis2.org/inaction) in 50+ countries, with 30+ countries in a pilot phase. A BSD-licensed open-source software platform enables governments and organizations to collect, manage and analyse data in the health domain and beyond.
 
 ## [Ericsson](http://ericsson.se)
 ### FIFA World Cup: Platform Expert
@@ -172,6 +179,15 @@ and maintained the servers running WebSphere (WAS/WPS).
 *Description*: A REST-based backend that handles user registration, partner
 connections, persistence, etc. that talks JSON and also deals with IOS
 notification integration through Microsoft Azure.
+
+## [PorterBuddy](https://www.porterbuddy.no)
+### Last mile delivery service
+#### 2017-10&ndash;2017-12, Cloud Architect
+ 
+*Keywords*: continuous integration, continuous deployment, aws, elastic beanstalk, postgresql, redis, docker, javascript, react, ruby on rails
+
+*Description*: PorterBuddy had outsourced development to a shop in Ukraine to build their initial
+product. Once they got traction in the market and secured deals with shops around Oslo using their delivery service they wanted to bring back development in-house. As part of this work I setup their infrastructure in AWS and defined their development process so they could continuously deliver code from source to production automatically and securely.
 
 ## [Sony Ericsson](http://sonyericsson.com)
 ### PlayNow Arena
