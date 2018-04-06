@@ -11,7 +11,9 @@ Well, My [Facebook profile](https://www.facebook.com/varlfu) is completely publi
 
 I run a company registered in Sweden called [vardevs](http://www.vardevs.se). I don't do much with it except host sites, buy domains, administer servers and the occasional development and operations for friends and family. It's an ongoing learning experiment about how a company works and has taught me about taxes, VAT, inter-country invoices, book keeping and publishing yearly reports.
 
-All-in-all _curious_ is a word I would not mind being applied to my personality. Currently I explore **Clojure**, **Go**, and **Elm**.
+Right now I work at DHIS2 as the frontend architect with overall responsibilities for how we develop web apps. At DHIS2 we build an open-source health management information system which is deployed as the national health management system throughout in many countries, and being piloted in many more. Very exciting stuff to be honest.
+
+All-in-all _curious_ is a word I would not mind being applied to my personality. I know it can have multiple meanings but I still don't mind. ;)
 
 ## What's happened recently?
 - Frontend Architect:
@@ -21,7 +23,7 @@ All-in-all _curious_ is a word I would not mind being applied to my personality.
   - _2016&ndash;2017_ [Cisco](https://github.com/varl/cv/blob/master/PROJECTS.md#cisco-systems): front-end, devops, tech lead
   - _2017&ndash;2017_ [PorterBuddy](https://github.com/varl/cv/blob/master/PROJECTS.md#porterbuddy): devops, cloud architect
 
-- Professional development
+- Professional development at Iterate
   - Mentor for developers
   - Board member
   - Recruitment
